@@ -1,0 +1,23 @@
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc to Websocket Proxy.exe
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\obj\Debug\netcoreapp3.0\Grpc to Websocket Proxy.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\obj\Debug\netcoreapp3.0\Grpc to Websocket Proxy.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\obj\Debug\netcoreapp3.0\Grpc to Websocket Proxy.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\websocket-sharp.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\obj\Debug\netcoreapp3.0\Grpc to Websocket Proxy.csproj.CopyComplete
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc.Core.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc to Websocket Proxy.deps.json
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc to Websocket Proxy.runtimeconfig.json
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc to Websocket Proxy.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc to Websocket Proxy.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Grpc to Websocket Proxy.pdb
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\obj\Debug\netcoreapp3.0\Grpc to Websocket Proxy.dll
+C:\Users\kamil\source\repos\Grpc to Websocket Proxy\obj\Debug\netcoreapp3.0\Grpc to Websocket Proxy.pdb
